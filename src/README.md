@@ -1,16 +1,29 @@
-Include your code files in the src folder to demonstrate your implementation.
+
 # AIROI – PS-031
+## 💻 Source Code
 
-## 🎥 Solution Video
-[Watch our Solution Video on YouTube](https://youtu.be/PmnaKh2I5yo)
+Our complete project source code is available in the
+following GitHub repository:
 
-Watch our AIROI project demonstration:
+👉 [ExportGuard – AIROI PS-031 Source Code](https://github.com/sirohivaishnavi11/offline-aspa-bgp-export-policy-checker)
 
-[![AIROI Project Demo](https://img.youtube.com/vi/bAm7iDCRktc/0.jpg)](https://youtu.be/bAm7iDCRktc)
+## 🎥 Project Videos
 
-## 📄 Project Documentation
-[View Project PDF](./Proposed-Structure-Hackathon.pdf)
-
+- [Project Introduction / Solution Video](https://youtu.be/PmnaKh2I5yo)
+- [Project Demonstration Video](https://youtu.be/bAm7iDCRktc)
 ## 🚀 Project Overview
 AIROI is our proposed solution for PS-031. It focuses on validating BGP export policies using ASPA and detecting routing policy violations.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
