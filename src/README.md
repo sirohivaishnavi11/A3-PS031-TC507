@@ -4,6 +4,10 @@ Include your code files in the src folder to demonstrate your implementation.
 ## 🎥 Solution Video
 [Watch our Solution Video on YouTube](https://youtu.be/PmnaKh2I5yo)
 
+Watch our AIROI project demonstration:
+
+[![AIROI Project Demo](https://img.youtube.com/vi/bAm7iDCRktc/0.jpg)](https://youtu.be/bAm7iDCRktc)
+
 ## 📄 Project Documentation
 [View Project PDF](./Proposed-Structure-Hackathon.pdf)
 
